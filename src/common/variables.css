@@ -1,0 +1,14 @@
+:root {
+    --bg-black: #0f0f0f;
+    --text-white: #f8f8f8;
+    --black: #0f0f0f;
+    --white: #f8f8f8;
+    --bg-gray: #272727;
+    --link-blue: #7ea2ec;
+    --bg-red: #ee2f4c;
+    --bg-blue: #1a61e9;
+    --bg-purple: #5a1ecb;
+    --bg-green: #027757;
+    --bg-mobile: #272b2d;
+    --box-shadow-mockup: rgb(176 176 178 / 16%) 0px -5px 6px 0px inset, rgb(0 0 0 / 24%) 4px 6px 11px 1px inset;
+}
