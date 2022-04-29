@@ -41,6 +41,7 @@
 @media all and (max-width: 1279px) {
     .rating {
         padding: 100px 0;
+        width: 80%;
     }
     .rating-value {
         font-size: 100px;
